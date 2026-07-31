@@ -167,10 +167,10 @@ HTML_TEMPLATE = """
             <h3>💳 کارت به کارت و ارسال فیش</h3>
             <div class="info-box">
                 <p><strong>بانک:</strong> نام بانک شما</p>
-                <p><strong>شماره کارت:</strong> <span style="font-family: monospace; color: #facc15;">6037XXXXXXXXXXXXXXXX</span> 
-                    <button class="btn-copy" onclick="copyText('6037XXXXXXXXXXXXXXXX')">کپی شماره کارت</button>
+                <p><strong>شماره کارت:</strong> <span style="font-family: monospace; color: #facc15;">5892101081301000</span> 
+                    <button class="btn-copy" onclick="copyText('5892101081301000')">کپی شماره کارت</button>
                 </p>
-                <p><strong>نام صاحب حساب:</strong> نام شما</p>
+                <p><strong>علیرضا علیزاده:</strong> نام شما</p>
             </div>
 
             <!-- بخش آپلود فیش داخل برنامه -->
